@@ -1,0 +1,9 @@
+{
+  "label": "Other WordPress Sites",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Instructions for our maintained sites built with other WordPress practices, including WP Bakery, Elementor, and others."
+  }
+}
+
